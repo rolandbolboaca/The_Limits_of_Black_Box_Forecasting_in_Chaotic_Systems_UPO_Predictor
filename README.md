@@ -10,9 +10,7 @@ Source code for the paper: An Empirical Study on The Limits of Black Box Forecas
 - Comprehensive evaluation of standard and state-of-the-art methods for black-box chaotic forecasting, focusing on the Lorenz system with multiple operating regimes under short- and long-term horizons, noisy conditions, together with trajectory and attractor reconstruction.
 - Proposal of a novel UPO-based forecasting framework with fast inference and competitive performance in trajectory prediction and attractor reconstruction.
 - Systematic analysis of unstable periodic orbits, including shadowing times, selection frequencies, and the impact of UPO availability on forecasting performance.
-- Identification of important limitations of existing machine learning approaches for chaotic systems prediction and reconstruction.
-- Open-source implementation and datasets provided to ensure reproducibility and further research.
-  
+- Identification of important limitations of existing machine learning approaches for chaotic systems prediction and reconstruction.  
 
 ## Citation
 
