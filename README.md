@@ -34,7 +34,7 @@ If you use the code or dataset, please cite the paper:
 
 ## Dataset link
 
-The datasets used for the experimental assesment are available on This site was built using [HARVARD Dataverse](https://doi.org/10.7910/DVN/LBCPMC).
+The datasets used for the experimental assesment are available on [HARVARD Dataverse](https://doi.org/10.7910/DVN/LBCPMC).
 
 
 
