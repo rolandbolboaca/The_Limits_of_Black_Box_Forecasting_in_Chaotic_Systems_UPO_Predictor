@@ -7,11 +7,11 @@
 ## Description
 
 - This repository presents an experimental framework for studying the predictability of the Lorenz chaotic system using Standard and State-of-the-art approaches.
-    - LSTMs (seq-to-seq and generative), Transformers, Time Fusion Transformers, UPO Predictor.
-- The work explores how forecasting performance varies across different dynamic regimes caused by changes in system parameters and noise. 
-- For each parameter configuration and forecast horizon, multiple metrics are computed to evaluate long-, mid-, and short-term predictability.
-- An extensive sensitive analysis across multiple system regimes determined by RHO values.
-- A novel UPO-based Predictor is proposed and evaluated.
+- Comprehensive evaluation of standard and state-of-the-art methods for black-box chaotic forecasting, focusing on the Lorenz system with multiple operating regimes under short- and long-term horizons, noisy conditions, together with trajectory and attractor reconstruction.
+- Proposal of a novel UPO-based forecasting framework with fast inference and competitive performance in trajectory prediction and attractor reconstruction.
+- Systematic analysis of unstable periodic orbits, including shadowing times, selection frequencies, and the impact of UPO availability on forecasting performance.
+- Identification of important limitations of existing machine learning approaches for chaotic systems prediction and reconstruction.
+- Open-source implementation and datasets provided to ensure reproducibility and further research.
   
 
 ## Citation
