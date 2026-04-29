@@ -37,26 +37,29 @@ If you use the code or dataset, please cite the paper:
 ## Relevant Papers
 
 ### Foundation and Standard Models for Time Series
-- **Chronos: Learning the Language of Time Series Forecasting** — Ansari et al.  
+- **Chronos: Learning the Language of Time Series Forecasting** - Ansari et al.  
   https://arxiv.org/abs/2403.07815
 
-- **DynaMix: True Zero-Shot Inference of Dynamical Systems Preserving Long-Term Statistics** - Christoph Jürgen Hemmer and Daniel Durstewitz
+- **DynaMix: True Zero-Shot Inference of Dynamical Systems Preserving Long-Term Statistics** - Christoph Hemmer and Daniel Durstewitz
   https://arxiv.org/abs/2505.13192
+
+- **Panda: A pretrained forecast model for chaotic dynamics** - Jeffrey Lai and Anthony Bao and William Gilpin
+  https://arxiv.org/abs/2505.13755
   
-- **TimesFM: A Foundation Model for Time Series Forecasting** — Das et al. (Google Research)  
+- **TimesFM: A Foundation Model for Time Series Forecasting** - Das et al. (Google Research)  
   https://arxiv.org/abs/2310.10688
 
-- **Temporal Fusion Transformers for Interpretable Multi-horizon Forecasting** — Bryan Lim, Sercan O. Arik, Nicolas Loeff, Tomas Pfister  
+- **Temporal Fusion Transformers for Interpretable Multi-horizon Forecasting** - Bryan Lim, Sercan O. Arik, Nicolas Loeff, Tomas Pfister  
   https://arxiv.org/abs/1912.09363
 
-- **Long Short-Term Memory (LSTM)** — Sepp Hochreiter and Jürgen Schmidhuber  
+- **Long Short-Term Memory (LSTM)** - Sepp Hochreiter and Jürgen Schmidhuber  
   https://arxiv.org/abs/1402.1128
 
 ### Unstable Periodic Orbits (UPOs) / Dynamical Systems
-- **Unstable Periodic Orbits in the Lorenz System** — Chiara Cecilia Maiocchi and Valerio Lucarini and Andrey Gritsun
+- **Unstable Periodic Orbits in the Lorenz System** - Chiara Cecilia Maiocchi and Valerio Lucarini and Andrey Gritsun
   https://arxiv.org/pdf/2108.04181
 
-- **Unstable Periodic Orbits (PhD Thesis)** — Chiara Cecilia Maiocchi  
+- **Unstable Periodic Orbits (PhD Thesis)** - Chiara Cecilia Maiocchi  
   https://centaur.reading.ac.uk/112633/1/Maiocchi_thesis.pdf
   
   
