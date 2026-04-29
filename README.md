@@ -1,7 +1,7 @@
 # The Limits of Black Box Forecasting in Chaotic Systems with Changing Parameters and UPO-Predictor
 Source code for the paper: An Empirical Study on The Limits of Black Box Forecasting in Chaotic Systems with Changing Parameters [SUBMITED AND UNDER REVIEW]
 
-## **Due to privacy concerns, the source code files will be uploaded once the paper is accepted or by request**
+## ***Due to privacy concerns, source code files will be uploaded once the paper is accepted or provided upon request.***
 
 
 ## Description
@@ -37,16 +37,28 @@ If you use the code or dataset, please cite the paper:
 ## Relevant Papers
 
 ### Foundation and Standard Models for Time Series
-- [DynaMix](https://arxiv.org/abs/2505.13192)
-- [Chronos](https://arxiv.org/abs/2403.07815)
-- [Panda](https://arxiv.org/abs/2505.13755)
-- [TimesFM](https://arxiv.org/abs/2310.10688)
-- [Temporal Fusion Transformers](https://arxiv.org/abs/1912.09363)
-- [LSTMs](https://arxiv.org/abs/1402.1128)
+- **Chronos: Learning the Language of Time Series Forecasting** — Ansari et al.  
+  https://arxiv.org/abs/2403.07815
 
-### Unstable Periodic Orbits (UPOs)
-- [UPOs Thesis](https://centaur.reading.ac.uk/112633/1/Maiocchi_thesis.pdf)
-- [UPOs in the Lorenz System](https://arxiv.org/pdf/2108.04181)
+- **DynaMix: True Zero-Shot Inference of Dynamical Systems Preserving Long-Term Statistics** - Christoph Jürgen Hemmer and Daniel Durstewitz
+  https://arxiv.org/abs/2505.13192
+  
+- **TimesFM: A Foundation Model for Time Series Forecasting** — Das et al. (Google Research)  
+  https://arxiv.org/abs/2310.10688
+
+- **Temporal Fusion Transformers for Interpretable Multi-horizon Forecasting** — Bryan Lim, Sercan O. Arik, Nicolas Loeff, Tomas Pfister  
+  https://arxiv.org/abs/1912.09363
+
+- **Long Short-Term Memory (LSTM)** — Sepp Hochreiter and Jürgen Schmidhuber  
+  https://arxiv.org/abs/1402.1128
+
+### Unstable Periodic Orbits (UPOs) / Dynamical Systems
+- **Unstable Periodic Orbits in the Lorenz System** — Chiara Cecilia Maiocchi and Valerio Lucarini and Andrey Gritsun
+  https://arxiv.org/pdf/2108.04181
+
+- **Unstable Periodic Orbits (PhD Thesis)** — Chiara Cecilia Maiocchi  
+  https://centaur.reading.ac.uk/112633/1/Maiocchi_thesis.pdf
+  
   
 ## Dataset link
 
