@@ -23,7 +23,7 @@ If you use the code or dataset, please cite the paper:
 @Article{rolandb_lorenzlstmeval,
   AUTHOR = {Bolboacă, Roland, Haller, Piroska},
   TITLE = {An Empirical Study on The Limits of Black Box Forecasting in Chaotic Systems with Changing Parameters},
-  JOURNAL = {},
+  JOURNAL = {Chaos, Solitons and Fractals},
   VOLUME = {},
   YEAR = {2026},
   NUMBER = {},
