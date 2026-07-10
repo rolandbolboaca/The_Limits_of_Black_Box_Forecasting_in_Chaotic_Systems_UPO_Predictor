@@ -1,8 +1,5 @@
 # The Limits of Black Box Forecasting in Chaotic Systems with Changing Parameters and UPO-Predictor
-Source code for the paper: An Empirical Study on The Limits of Black Box Forecasting in Chaotic Systems with Changing Parameters [SUBMITED AND UNDER REVIEW]
-
-## ***Due to privacy concerns, source code files will be uploaded once the paper is accepted or provided upon request.***
-
+Source code for the paper: An Empirical Study on The Limits of Black Box Forecasting in Chaotic Systems with Changing Parameters [ACCEPTED]
 
 ## Description
 
