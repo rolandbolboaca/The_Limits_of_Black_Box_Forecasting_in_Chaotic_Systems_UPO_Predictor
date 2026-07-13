@@ -1,5 +1,5 @@
 # The Limits of Black Box Forecasting in Chaotic Systems with Changing Parameters and UPO-Predictor
-Source code for the paper: An Empirical Study on The Limits of Black Box Forecasting in Chaotic Systems with Changing Parameters [ACCEPTED]
+Source code for the paper: An Empirical Study on The Limits of Black Box Forecasting in Chaotic Systems with Changing Parameters [Accepted and Published]
 
 ## Description
 
@@ -17,18 +17,17 @@ This repository presents an experimental framework for studying the predictabili
 If you use the code or dataset, please cite the paper:
 
 ```bibtex
-@Article{rolandb_lorenzlstmeval,
-  AUTHOR = {Bolboacă, Roland, Haller, Piroska},
-  TITLE = {An Empirical Study on The Limits of Black Box Forecasting in Chaotic Systems with Changing Parameters},
-  JOURNAL = {Chaos, Solitons and Fractals},
-  VOLUME = {},
-  YEAR = {2026},
-  NUMBER = {},
-  ARTICLE-NUMBER = {},
-  URL = {},
-  ISSN = {},
-  DOI = {}
-}
+@article{BOLBOACA2026118779,
+  title = {An empirical study on the limits of black box forecasting in chaotic systems with changing parameters},
+  journal = {Chaos, Solitons & Fractals},
+  volume = {211},
+  pages = {118779},
+  year = {2026},
+  issn = {0960-0779},
+  doi = {https://doi.org/10.1016/j.chaos.2026.118779},
+  url = {https://www.sciencedirect.com/science/article/pii/S0960077926009203},
+  author = {Roland Bolboacă and Piroska Haller},
+  }
 ```
 
 ## Relevant Papers
