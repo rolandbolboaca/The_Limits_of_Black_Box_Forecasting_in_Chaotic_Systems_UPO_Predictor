@@ -1,5 +1,12 @@
-# The Limits of Black Box Forecasting in Chaotic Systems with Changing Parameters and UPO-Predictor
-Source code for the paper: An Empirical Study on The Limits of Black Box Forecasting in Chaotic Systems with Changing Parameters [Accepted and Published]
+# The Limits of Black-Box Forecasting in Chaotic Systems with Changing Parameters and UPO-Predictor
+
+Official source code accompanying the paper:
+
+**Roland Bolboacă, Piroska Haller.**  
+*An Empirical Study on the Limits of Black-Box Forecasting in Chaotic Systems with Changing Parameters*.  
+**Chaos, Solitons & Fractals**, 2026.
+
+**Paper:** https://www.sciencedirect.com/science/article/pii/S0960077926009203
 
 ## Description
 
@@ -93,8 +100,8 @@ Datasets should be placed in **`data/`**.
 Train/test filenames can be configured in `data.py`.
 
 Example files:
-- `Norm_IC_01_G_Rho_5_1_225_005_Sim_10_29_01_2026_11_32_41.csv`
-- `Norm_IC_01_G_Rho_5_1_225_005_Sim_10_29_01_2026_11_32_44.csv`
+- `Training_Lorenz_Multi_Rho.csv`
+- `Testing_Lorenz_Multi_Rho.csv.csv`
 
 ## UPO Data
 
